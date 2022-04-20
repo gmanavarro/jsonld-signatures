@@ -1,6 +1,6 @@
 {
   "name": "@gmanavarro/jsonld-signatures",
-  "version": "9.3.2-1",
+  "version": "9.3.2-3",
   "description": "An implementation of the Linked Data Signatures specifications for JSON-LD in JavaScript.",
   "homepage": "https://github.com/digitalbazaar/jsonld-signatures",
   "author": {
@@ -29,7 +29,7 @@
     "lib/**/*.js"
   ],
   "dependencies": {
-    "@gmanavarro/security-context": "^4.0.1-0",
+    "@gmanavarro/security-context": "^4.0.1-4",
     "jsonld": "^5.0.0",
     "serialize-error": "^8.0.1"
   },
